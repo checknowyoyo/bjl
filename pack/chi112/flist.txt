@@ -1,7 +1,7 @@
 local list = {
-	ver = "08311530",
+	ver = "08311534",
 	stage = {
-		{path="", name="game.zip", md5="c3c2514c0cba4eb932f2242ad0a80a6a", act="load"},
+		{path="", name="game.zip", md5="308633285262cdb7b985ad926581f4ac", act="load"},
 		{path="", name="top.png", md5="51da46a1146a9e23528209c800a8e4e7", act=""}
 	},
 	remove={
