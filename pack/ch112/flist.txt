@@ -1,0 +1,11 @@
+local list = {
+	ver = "08311058",
+	stage = {
+		{path="", name="game.zip", md5="20aef5b294221ef18ac6b99c727912ad", act="load"},
+		{path="", name="top.png", md5="51da46a1146a9e23528209c800a8e4e7", act=""}
+	},
+	remove={
+	}
+}
+return list
+
