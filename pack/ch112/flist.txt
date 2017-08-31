@@ -1,0 +1,13 @@
+local list = {
+	ver = "08311551",
+	stage = {
+		{path="", name="game.zip", md5="bbb7985bf7022ffc5673d3fa03f51274", act="load"},
+		{path="", name="new_hall_logo.png", md5="f950b77f228c76a044fa4bf5b3a0326c", act=""},
+		{path="", name="new_login_logo.png", md5="0c93d716ca44df7ccc195faed40ebb44", act=""},
+		{path="", name="top.png", md5="51da46a1146a9e23528209c800a8e4e7", act=""}
+	},
+	remove={
+	}
+}
+return list
+
