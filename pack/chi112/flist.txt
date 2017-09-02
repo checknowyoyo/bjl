@@ -1,7 +1,7 @@
 local list = {
-	ver = "09021434",
+	ver = "09021447",
 	stage = {
-		{path="", name="game.zip", md5="ba3e43580e3260acf96fdadae754555d", act="load"},
+		{path="", name="game.zip", md5="667144efa30a4fb6d2af7429ffc73788", act="load"},
 		{path="", name="new_hall_logo.png", md5="f950b77f228c76a044fa4bf5b3a0326c", act=""},
 		{path="", name="new_login_logo.png", md5="0c93d716ca44df7ccc195faed40ebb44", act=""},
 		{path="", name="tab1_bg.png", md5="23c94f4c5f7160cc30dd50eeac5cffa1", act=""},
